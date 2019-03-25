@@ -150,4 +150,10 @@
         </plugins>
     </build>
 
+	<developers>
+		<developer>
+			<name>Edson Costa</name>
+			<email>edsoncosta@example.com</email>
+		</developer>
+	</developers>
 </project>
